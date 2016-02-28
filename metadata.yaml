@@ -1,0 +1,42 @@
+_repo: Discoveries-Made-Upon-Men-and-Matter-and-Some-Poems_5134
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Ionson, Ben
+    - Johnson, Ben
+    - Jonson, Benjamin
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Miscellanea'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Commonplace books'
+tableOfContents: 'Sylva -- Timber, or discoveries made upon men and matter -- Some
+  poems: To William Camden. On my first daughter. On my first son. To Francis Beaumont.
+  Of life and death. Inviting a friend to supper. Epitaph on Salathiel Pavy. Epitaph
+  on Elizabeth L. H. Epitaph on the countess of Pembroke. To the memory of my beloved
+  master William Shakespeare. To Celia. The triumph of Charis. In the person of womankind.
+  Ode. Præludium. Epode. An elegy.'
+title: Discoveries Made Upon Men and Matter and Some Poems
+url: http://www.gutenberg.org/ebooks/5134
