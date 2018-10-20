@@ -1,5 +1,5 @@
 _repo: Discoveries-Made-Upon-Men-and-Matter-and-Some-Poems_5134
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -38,6 +38,7 @@ subjects:
 - !lcsh 'Miscellanea'
 - !lcsh 'English poetry -- Early modern, 1500-1700'
 - !lcsh 'Commonplace books'
+- GITenberg
 tableOfContents: 'Sylva -- Timber, or discoveries made upon men and matter -- Some
   poems: To William Camden. On my first daughter. On my first son. To Francis Beaumont.
   Of life and death. Inviting a friend to supper. Epitaph on Salathiel Pavy. Epitaph
